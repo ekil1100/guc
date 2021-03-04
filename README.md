@@ -1,6 +1,6 @@
 # guc-proxy
 
-`githubusercontent.com` 域名被墙了，所以用 vercel 的 serverless 来做转发。
+`githubusercontent.com` 域名被墙了，用 vercel 的 serverless 来做转发。
 
 ## API
 
